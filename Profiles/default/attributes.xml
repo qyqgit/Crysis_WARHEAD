@@ -1,0 +1,9 @@
+<Attributes Version="8">
+ <Attr name="Activated" value="1"/>
+ <Attr name="Option.fsaa_mode" value=""/>
+ <Attr name="OptionCfg.g_blood" value="1"/>
+ <Attr name="OptionCfg.r_Height" value="1050"/>
+ <Attr name="OptionCfg.r_Width" value="1680"/>
+ <Attr name="Singleplayer.LastSavedGame" value="64_All_the_Fury_47m_41s.CRYSISPSF"/>
+ <Attr name="Singleplayer.SaveRunningID" value="65"/>
+</Attributes>
